@@ -14,4 +14,4 @@ const runningSum = function (nums) {
 };
 
 // time complexity: o(n)
-// formulate used to arrive at the time complexity: c1 + c1 + cn + c1 + c1 +c1 + c1
+// formula used to arrive at the time complexity: c1 + c1 + cn + c1 + c1 +c1 + c1
