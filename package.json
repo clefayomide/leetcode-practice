@@ -1,0 +1,14 @@
+{
+	"name": "leetcode-practice",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/clefayomide/leetcode-practice.git",
+	"author": "victor <victorayomide32@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"test": "vitest"
+	},
+	"devDependencies": {
+		"vitest": "^2.0.5"
+	}
+}
